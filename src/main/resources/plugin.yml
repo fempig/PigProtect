@@ -1,0 +1,4 @@
+name: PigProtect
+version: '${project.version}'
+main: ru.femboypig.pigprotect.PigProtect
+api-version: '1.16'
