@@ -1,0 +1,15 @@
+#
+# true = no fucking blyat
+#
+spawn:
+  world: world
+  x: 136
+  y: 64
+  z: -81
+radius: 50 # radius
+protect: # false = enabled, true = no
+  exploding: true # true = NOOO
+  entityspawn: true # true = NOOO
+  damage: true # true = NOOO
+  blockbreak: true # true = NOOO
+  blockplace: true # true = NOOO
